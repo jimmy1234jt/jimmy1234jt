@@ -8,7 +8,7 @@
 
 <p align="center">
 Computer Science (AI) student at Edinburgh Napier University  
-Interested in IT Support, Systems, and Software Development
+Interested in IT Support, cyberSecurity, and Software Development
 </p>
 
 ---
@@ -44,4 +44,4 @@ Interested in IT Support, Systems, and Software Development
 - Portfolio – https://ejero-odafewomoni.vercel.app/
 
 ## 📫 Contact
-ejero odafewomoni@gmail.com
+ejeroodafewomoni@gmail.com
